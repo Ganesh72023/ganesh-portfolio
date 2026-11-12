@@ -1,0 +1,17 @@
+{
+  "name": "ganesh-shingade-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D Cyber-Vedic Portfolio for Ganesh Shingade",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [
+    "portfolio",
+    "data-analytics",
+    "data-science",
+    "threejs",
+    "webgl"
+  ],
+  "author": "Ganesh Shingade"
+}
